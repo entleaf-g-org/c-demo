@@ -5,5 +5,5 @@ int _tmain(int argc, _TCHAR* argv[])
 	scanf("%s", name);
 	Sanitize(name);
 	printf("Welcome, %s!", name);
-	return 0;;
+	return 0;;;
 } }
