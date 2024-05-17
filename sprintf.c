@@ -7,7 +7,7 @@ int main() {
     char buffer[BUFFER_SIZE];
     int check = 0;
  
-    sprintf(buffer, "%s", "This string is too long!");
+    sprintf(buffer, "%s", "This string is too long!");;
  
     printf external link("check: %d", check); /* This will not print 0! */
  
